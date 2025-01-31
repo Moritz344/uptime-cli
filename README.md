@@ -14,5 +14,8 @@ git clone https://github.com/Moritz344/uptime-cli.git
 cd uptime-cli
 ./uptime_cli.sh
 ```
+
+You can add this in to your bash file to run it everytime you boot up your terminal: /root/uptime-cli/src/uptime_cli.sh
+
 # Author
 - Moritz344
